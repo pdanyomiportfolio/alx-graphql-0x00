@@ -1,0 +1,128 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "21",
+          "name": "Aqua Morty",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/21.jpeg"
+        },
+        {
+          "id": "22",
+          "name": "Aqua Rick",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/22.jpeg"
+        },
+        {
+          "id": "23",
+          "name": "Armagheadon",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/23.jpeg"
+        },
+        {
+          "id": "24",
+          "name": "Armothy",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/24.jpeg"
+        },
+        {
+          "id": "25",
+          "name": "Arthricia",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/25.jpeg"
+        },
+        {
+          "id": "26",
+          "name": "Attila Starwar",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/26.jpeg"
+        },
+        {
+          "id": "27",
+          "name": "A Rickle in Time",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/27.jpeg"
+        },
+        {
+          "id": "28",
+          "name": "Baby Legs",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/28.jpeg"
+        },
+        {
+          "id": "29",
+          "name": "Balloon Dog Rick",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/29.jpeg"
+        },
+        {
+          "id": "30",
+          "name": "Beeslor",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/30.jpeg"
+        },
+        {
+          "id": "31",
+          "name": "Benjamin",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/31.jpeg"
+        },
+        {
+          "id": "32",
+          "name": "Beta-Seven",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/32.jpeg"
+        },
+        {
+          "id": "33",
+          "name": "Big Boobed Waitress",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/33.jpeg"
+        },
+        {
+          "id": "34",
+          "name": "Big Head Morty",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/34.jpeg"
+        },
+        {
+          "id": "35",
+          "name": "Big Head Rick",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/35.jpeg"
+        },
+        {
+          "id": "36",
+          "name": "Birdperson",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/36.jpeg"
+        },
+        {
+          "id": "37",
+          "name": "Blim Blam",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/37.jpeg"
+        },
+        {
+          "id": "38",
+          "name": "Blob",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/38.jpeg"
+        },
+        {
+          "id": "39",
+          "name": "Blobs Rick",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/39.jpeg"
+        },
+        {
+          "id": "40",
+          "name": "Blue Morty",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/40.jpeg"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "41",
+          "name": "Blue Rick",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/41.jpeg"
+        },
+        {
+          "id": "42",
+          "name": "Bobby Moynihan",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/42.jpeg"
+        },
+        {
+          "id": "43",
+          "name": "Boobloosian",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/43.jpeg"
+        },
+        {
+          "id": "44",
+          "name": "Bort",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/44.jpeg"
+        },
+        {
+          "id": "45",
+          "name": "Boss Morty",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/45.jpeg"
+        },
+        {
+          "id": "46",
+          "name": "Boss Rick",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/46.jpeg"
+        },
+        {
+          "id": "47",
+          "name": "Butter Robot",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/47.jpeg"
+        },
+        {
+          "id": "48",
+          "name": "Cackling Larry",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/48.jpeg"
+        },
+        {
+          "id": "49",
+          "name": "Camera Morty",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/49.jpeg"
+        },
+        {
+          "id": "50",
+          "name": "Campaign Manager Morty",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/50.jpeg"
+        },
+        {
+          "id": "51",
+          "name": "Cancer Morty",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/51.jpeg"
+        },
+        {
+          "id": "52",
+          "name": "Cat Person",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/52.jpeg"
+        },
+        {
+          "id": "53",
+          "name": "Catbug",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/53.jpeg"
+        },
+        {
+          "id": "54",
+          "name": "Cedric",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/54.jpeg"
+        },
+        {
+          "id": "55",
+          "name": "Centaur",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/55.jpeg"
+        },
+        {
+          "id": "56",
+          "name": "Chloe",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/56.jpeg"
+        },
+        {
+          "id": "57",
+          "name": "Chris",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/57.jpeg"
+        },
+        {
+          "id": "58",
+          "name": "Chris (Morty’s timeline)",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/58.jpeg"
+        },
+        {
+          "id": "59",
+          "name": "Cloaked Morty",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/59.jpeg"
+        },
+        {
+          "id": "60",
+          "name": "Coach Feratu",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/60.jpeg"
+        }
+      ]
+    }
+  }
+}

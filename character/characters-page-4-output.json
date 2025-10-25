@@ -1,0 +1,128 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "61",
+          "name": "Cop Morty",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/61.jpeg"
+        },
+        {
+          "id": "62",
+          "name": "Cop Rick",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/62.jpeg"
+        },
+        {
+          "id": "63",
+          "name": "Coral",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/63.jpeg"
+        },
+        {
+          "id": "64",
+          "name": "Cornvelious Daniel",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/64.jpeg"
+        },
+        {
+          "id": "65",
+          "name": "Cousin Nicky",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/65.jpeg"
+        },
+        {
+          "id": "66",
+          "name": "Crab Spider",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/66.jpeg"
+        },
+        {
+          "id": "67",
+          "name": "Crimson",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/67.jpeg"
+        },
+        {
+          "id": "68",
+          "name": "Cronenberg Rick",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/68.jpeg"
+        },
+        {
+          "id": "69",
+          "name": "Cronenberg Morty",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/69.jpeg"
+        },
+        {
+          "id": "70",
+          "name": "Crystal Rick",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/70.jpeg"
+        },
+        {
+          "id": "71",
+          "name": "Customer Support Rick",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/71.jpeg"
+        },
+        {
+          "id": "72",
+          "name": "Cyclops Rick",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/72.jpeg"
+        },
+        {
+          "id": "73",
+          "name": "Cyclops Morty",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/73.jpeg"
+        },
+        {
+          "id": "74",
+          "name": "Cyborg Morty",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/74.jpeg"
+        },
+        {
+          "id": "75",
+          "name": "Cyborg Rick",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/75.jpeg"
+        },
+        {
+          "id": "76",
+          "name": "Cyclops Morty’s friend",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/76.jpeg"
+        },
+        {
+          "id": "77",
+          "name": "Cyclops Morty’s friend 2",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/77.jpeg"
+        },
+        {
+          "id": "78",
+          "name": "Cyclops Morty’s friend 3",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/78.jpeg"
+        },
+        {
+          "id": "79",
+          "name": "Cyclops Morty’s friend 4",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/79.jpeg"
+        },
+        {
+          "id": "80",
+          "name": "Cyclops Morty’s friend 5",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/80.jpeg"
+        }
+      ]
+    }
+  }
+}
